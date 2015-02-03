@@ -1,6 +1,8 @@
 # MBProgressBlurHUD
 MBProgressHUD with UIVisualEffectView. iOS8 only. 
 
+![ScreenShot](https://github.com/johnil/MBProgressBlurHUD/blob/master/shot.png?raw=true)
+
 Used:
 
 [MBProgressHUD](https://github.com/jdg/MBProgressHUD)
